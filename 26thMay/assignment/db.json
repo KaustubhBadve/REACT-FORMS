@@ -1,0 +1,114 @@
+{
+  "EmplouyeeDetails": [
+    {
+      "Name": "Kaustubh Badve",
+      "Age": "25",
+      "Address": "Flat not Chaitnya Apt Aurangabad",
+      "Department": "PPC",
+      "Salary": "233433",
+      "isMarried": true,
+      "Profilepic": "C:\\fakepath\\Screenshot (185).png",
+      "id": "d7aXm9j"
+    },
+    {
+      "Name": "Shirish Badve",
+      "Age": "54",
+      "Address": "Flat not Chaitnya Apt Aurangabad",
+      "Department": "Purchase",
+      "Salary": "560498",
+      "isMarried": true,
+      "Profilepic": "C:\\fakepath\\Screenshot (207).png",
+      "id": "ZAEXzIr"
+    },
+    {
+      "Name": "Amir",
+      "Age": "29",
+      "Address": "Pune",
+      "Department": "Production",
+      "Salary": "102342",
+      "isMarried": false,
+      "Profilepic": "C:\\fakepath\\Screenshot (207).png",
+      "id": "7b_PQWX"
+    },
+    {
+      "Name": "Rahul",
+      "Age": "24",
+      "Address": "rewecwfw4ff",
+      "Department": "Production",
+      "Salary": "23434434",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "lVgVESH"
+    },
+    {
+      "Name": "Vivek",
+      "Age": "24",
+      "Address": "rewecwfw4ff",
+      "Department": "Production",
+      "Salary": "3434334",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "mimpsFi"
+    },
+    {
+      "Name": "Vivekeweefw",
+      "Age": "24",
+      "Address": "rewecwfw4ff",
+      "Department": "Production",
+      "Salary": "3434334",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "s04w_SV"
+    },
+    {
+      "Name": "frfrfrwedw",
+      "Age": "23",
+      "Address": "rewecwfw4ff",
+      "Department": "Production",
+      "Salary": "45",
+      "isMarried": false,
+      "Profilepic": "",
+      "id": "eocBKnd"
+    },
+    {
+      "Name": "wewcww",
+      "Age": "23",
+      "Address": "rewecwfw4ff",
+      "Department": "Production",
+      "Salary": "453",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "vQcBCJa"
+    },
+    {
+      "Name": "Kaustubh Badve",
+      "Age": "22",
+      "Address": "Flat not Chaitnya Apt Aurangabad",
+      "Department": "",
+      "Salary": "3443",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "Hig6MA5"
+    },
+    {
+      "Name": "Kaustubh Badve",
+      "Age": "22",
+      "Address": "Flat not Chaitnya Apt Aurangabad",
+      "Department": "",
+      "Salary": "3443",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "aSkuqWR"
+    },
+    {
+      "Name": "Kaustubh Badve",
+      "Age": "22",
+      "Address": "Flat not Chaitnya Apt Aurangabad",
+      "Department": "",
+      "Salary": "3443",
+      "isMarried": true,
+      "Profilepic": "",
+      "id": "P7bFiSV"
+    }
+  ]
+}

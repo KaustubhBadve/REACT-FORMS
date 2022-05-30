@@ -1,0 +1,56 @@
+form{
+    /* border: 1px solid red; */
+    width: 80%;
+    line-height: 20px;
+    border: 1px solid red;
+    font-size: 17px;
+    padding-top: 20px;
+    background-color: burlywood;
+    border-radius: 6px;
+    padding-bottom: 10px;
+}
+table,
+td,
+th {
+  border: 1px solid #ddd;
+  text-align: left;
+  border-radius: 5px;   
+}
+
+table {
+  border-collapse: collapse;
+  width: 98%;
+  margin: auto;
+  margin-top: 10px;
+  
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+tr > th {
+  background-color: teal;
+  color: white;
+}
+form>input{
+    border-radius: 5px;
+}
+label{
+    display: flex;
+    justify-content: space-between  ;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.subbtn{
+    margin: auto;
+    display: flex;
+}
+.main{
+    display: flex;
+}
+.table{
+    /* border: 1px solid rebeccapurple; */
+    width: 65%;
+}
